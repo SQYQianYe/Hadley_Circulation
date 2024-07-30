@@ -15,13 +15,12 @@
 | ECHAMP  | MPI-ESM1-2-HR   | ECHAM6.3                          | 0.9 × 0.9           | Nordeng (1994)             | Tiedtke (1989)               | Lohmann and Roeckner (1996)  | Sundqvist et al. (1989)    |
 | ECHAMP  | MPI-ESM1-2-LR   | ECHAM6.3                          | 1.875 × 1.875       | Nordeng (1994)             | Tiedtke (1989)               | Lohmann and Roeckner (1996)  | Sundqvist et al. (1989)    |
 | ECHAMP     | NESM3            | ECHAM6.3                          | 1.875 × 1.875       | Nordeng (1994)             | Tiedtke (1989)          | Yang & Wang (2019)              | Sundqvist et al. (1989)         |
-| CAM      | NorCPM1          | CAM4-Oslo                         | 2.5 × 1.875         | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Rasch and Kristjánsson (1998) | Slingo (1987)       |
-| FIO-ESM  | FIO-ESM-2–0     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Gettelman et al. (2010)      | Park et al. (2014)         |
-| CIESM    | CIESM            | CIESMAM1.0 (Modified CAM5)       | 1 × 1               | Zhang & McFarlane (1995)   | Gettelman et al. (2010)          | Park & Bretherton (2009)     | Qin et al(2018)|
-| CMCC     | CMCC-CM2-HR4     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Morrison and Gettelman (2008) | Park et al. (2014)         |
-| CMCC     | CMCC-CM2-SR5     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Morrison and Gettelman (2008) | Park et al. (2014)         |
-| CAM      | CAM6             | EAM (v1.0) based on CAM5.3       | ~ 1 × 1            | Zhang & McFarlane (1995)   | CLUBB                        | Gettelman and Morrison (2015) | CLUBB                      |
-| CAM      | E3SM-1–0        | EAM (v1.0) based on CAM5.3       | ~ 1 × 1            | Zhang and McFarlane (1995) | CLUBB, updated              | Gettelman and Morrison (2015) | CLUBB, updated            |
+| CAM5      | NorCPM1          | CAM4-Oslo                         | 2.5 × 1.875         | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Rasch and Kristjánsson (1998) | Slingo (1987)       |
+| CAM5  | FIO-ESM-2–0     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Gettelman et al. (2010)      | Park et al. (2014)         |
+| CAM5    | CIESM            | CIESMAM1.0 (Modified CAM5)       | 1 × 1               | Zhang & McFarlane (1995)   | Gettelman et al. (2010)          | Park & Bretherton (2009)     | Qin et al(2018)|
+| CAM5     | CMCC-CM2-HR4     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Morrison and Gettelman (2008) | Park et al. (2014)         |
+| CAM5     | CMCC-CM2-SR5     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Morrison and Gettelman (2008) | Park et al. (2014)         |
+| CAM6      | E3SM-1–0        | EAM (v1.0) based on CAM5.3       | ~ 1 × 1            | Zhang and McFarlane (1995) | CLUBB, updated              | Gettelman and Morrison (2015) | CLUBB, updated            |
 | CESM     | CESM2            | CAM6                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | CLUBB                        | Gettelman and Morrison (2015) | CLUBB                      |
 | CESM     | CESM2-WACCM      | CAM6                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | CLUBB                        | Gettelman and Morrison (2015) | CLUBB                      |
 | NorESM   | NorESM2-LM       | CAM-OSLO Based on CAM6           | 2.5 × 1.875         | Zhang and McFarlane (1995) | CLUBB                        | Toniazzo et al. (2020)        | Gettelman and Morrison (2015) |
