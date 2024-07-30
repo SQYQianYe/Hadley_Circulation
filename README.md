@@ -11,10 +11,10 @@
 | EC       | EC-Earth3        | ECMWF-IFS 36r4                    | 0.7 × 0.7           | Bechtold et al. (2014)     | Bechtold et al. (2014)       | Tiedtke (1993)              | Tiedtke (1993)              |
 | EC       | EC-Earth3-Veg    | ECMWF-IFS 36r4                    | 0.7 × 0.7           | Bechtold et al. (2014)     | Bechtold et al. (2014)       | Tiedtke (1993)              | Tiedtke (1993)              |
 | EC       | EC-Earth3-Veg-LR | IFS cy36r4                        | 1.125 × 1.125       | Bechtold et al. (2014)     | Bechtold et al. (2014)       | Tiedtke (1993)              | Tiedtke (1993)              |
-| ECHAMP   | CAMS-CSM1-0      | ECHAM5.4                          | 1.125 × 1.125       | Nordeng (1994)             | Tiedtke (1989)               | Nordeng (1994)              | Tompkins (2002)            |
+| ECHAMP   | CAMS-CSM1-0      | ECHAM5.4                          | 1.125 × 1.125       | Nordeng (1994)             | Tiedtke (1989)               | Lohmann and Roeckner (1996)              | Tompkins (2002)            |
 | MPI-ESM  | MPI-ESM1-2-HR   | ECHAM6.3                          | 0.9 × 0.9           | Nordeng (1994)             | Tiedtke (1989)               | Lohmann and Roeckner (1996)  | Sundqvist et al. (1989)    |
 | MPI-ESM  | MPI-ESM1-2-LR   | ECHAM6.3                          | 1.875 × 1.875       | Nordeng (1994)             | Tiedtke (1989)               | Lohmann and Roeckner (1996)  | Sundqvist et al. (1989)    |
-| NESM     | NESM3            | ECHAM6.3                          | 1.875 × 1.875       | Nordeng (1994)             | Yang & Wang (2019)          | Tiedtke (1989)              | Yang & Wang (2019)         |
+| NESM     | NESM3            | ECHAM6.3                          | 1.875 × 1.875       | Nordeng (1994)             | Tiedtke (1989)          | Yang & Wang (2019)              | Sundqvist et al. (1989)         |
 | CAM      | NorCPM1          | CAM4-Oslo                         | 2.5 × 1.875         | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Rasch and Kristjánsson (1998) | Zhang et al. (2003)       |
 | FIO-ESM  | FIO-ESM-2–0     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Gettelman et al. (2010)      | Park et al. (2014)         |
 | CIESM    | CIESM            | CIESMAM1.0 (Modified CAM5)       | 1 × 1               | Zhang & McFarlane (1995)   | Plant & Craig (2008)         | Park & Bretherton (2009)     | Morrison and Gettelman (2008)|
