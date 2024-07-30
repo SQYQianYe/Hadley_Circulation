@@ -20,10 +20,11 @@
 | CAM5    | CIESM            | CIESMAM1.0 (Modified CAM5)       | 1 × 1               | Zhang & McFarlane (1995)   | Gettelman et al. (2010)          | Park & Bretherton (2009)     | Qin et al(2018)|
 | CAM5     | CMCC-CM2-HR4     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Morrison and Gettelman (2008) | Park et al. (2014)         |
 | CAM5     | CMCC-CM2-SR5     | CAM5                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | Park & Bretherton (2009)     | Morrison and Gettelman (2008) | Park et al. (2014)         |
-| CAM6      | E3SM-1–0        | EAM (v1.0) based on CAM5.3       | ~ 1 × 1            | Zhang and McFarlane (1995) | CLUBB, updated              | Gettelman and Morrison (2015) | CLUBB, updated            |
+| CAM6      | E3SM-1–0        | EAM (v1.0) based on CAM5.3       | ~ 1 × 1            | Zhang and McFarlane (1995) | CLUBB              | Gettelman and Morrison (2015) | CLUBB           |
+| CAM6      | E3SM-2–0        | EAM (v1.0) based on CAM5.3       | ~ 1 × 1            | Zhang and McFarlane (1995) | CLUBB, updated              | Gettelman and Morrison (2015) | CLUBB, updated            |
 | CAM6     | CESM2            | CAM6                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | CLUBB                        | Gettelman and Morrison (2015) | CLUBB                      |
 | CAM6     | CESM2-WACCM      | CAM6                              | 1.25 × 0.9          | Zhang & McFarlane (1995)   | CLUBB                        | Gettelman and Morrison (2015) | CLUBB                      |
-| CAM6   | NorESM2-LM       | CAM-OSLO Based on CAM6           | 2.5 × 1.875         | Zhang and McFarlane (1995) | CLUBB                        | Toniazzo et al. (2020)        | Gettelman and Morrison (2015) |
+| CAM6   | NorESM2-LM       | CAM-OSLO Based on CAM6           | 2.5 × 1.875         | Zhang and McFarlane (1995) | CLUBB Toniazzo et al. (2020)                        | Gettelman and Morrison (2015)        | CLUBB |
 | INM      | INM-CM4-8        | INM-AM4-8                        | 2 × 1.5            | Betts (1986)               | Betts (1986)                 | Galin (1998)                  | Galin (1998)                |
 | INM      | INM-CM5-0        | INM-AM5-0                        | 2 × 1.5            | Betts (1986)               | Betts (1986)                 | Tiedtke (1993)                | Tiedtke (1993)               |
 | GFDL     | GFDL-ESM4         | GFDL-AM4.1                         | 1 × 1                | Zhao et al. (2018)          | Zhao et al. (2018)          | Rotstayn (1997)            | Tiedtke (1993)              |
