@@ -28,9 +28,9 @@
 | INM      | INM-CM5-0        | INM-AM5-0                        | 2 × 1.5            | Betts (1986)               | Betts (1986)                 | Tiedtke (1993)                | Tiedtke (1993)               |
 | GFDL     | GFDL-ESM4         | GFDL-AM4.1                         | 1 × 1                | Zhao et al. (2018)          | Zhao et al. (2018)          | Rotstayn (1997)            | Tiedtke (1993)              |
 | GFDL     | GFDL-CM4          | GFDL-AM4                          | 1 × 1                | Zhao et al. (2018)          | Zhao et al. (2018)          | Rotstayn (1997)            | Tiedtke (1993)              |
-|SAM      | SAM0-UNICON       | SAM0-UNICON                       | 1.25 × 0.9           | UNICON, Park (2014)        | UNICON, Park (2014)        | Morrison and Gettelman (2008) | Park et al. (2014)         |
-| KIOST    | KIOST-ESM        | GFDL-AM2.0                        | 1.875 × 1.875        | UNICON, Park (2014)        | UNICON, Park (2014)        | Rotstayn (1997)            | Tiedtke (1993)              |
-| TaiESM   | TaiESM1          | TaiAM1 based on GFDL AM2          | 1.25 × 0.9           | UNICON, Park (2014)        | UNICON, Park (2014)        | Rotstayn (1997)            | Tiedtke (1993)              |
+| SAM      | SAM0-UNICON       | SAM0-UNICON                       | 1.25 × 0.9           | UNICON, Park (2014)        | UNICON, Park (2014)        | Morrison and Gettelman (2008) | Park et al. (2014)         |
+| SAM    | KIOST-ESM        | GFDL-AM2.0                        | 1.875 × 1.875        | UNICON, Park (2014)        | UNICON, Park (2014)        | Rotstayn (1997)            | Tiedtke (1993)              |
+| SAM   | TaiESM1          | TaiAM1 based on GFDL AM2          | 1.25 × 0.9           | UNICON, Park (2014)        | UNICON, Park (2014)        | Rotstayn (1997)            | Tiedtke (1993)              |
 | MIROC    | MIROC6           | CCSR AGCM                         | 1.4 × 1.4            | Chikira & Sugiyama (2010)   | Park & Bretherton (2009)    | Wilson and Ballard (1999)    | Watanabe et al. (2009)      |
 | MIROC    | MIROC-ES2L       | CCSR AGCM                         | 2.8 × 2.8            | Chikira & Sugiyama (2010)   | Park & Bretherton (2009)    | Wilson and Ballard (1999)    | Watanabe et al. (2009)      |
 | MRI      | MRI-ESM2-0       | MRIAGCM3.5                        | 1.125 × 1.125        | Yoshimura et al. (2015)     | Yoshimura et al. (2015)     | Lohmann et al. (2007)       | Kawai (2005) Kawai et al. (2017) |
