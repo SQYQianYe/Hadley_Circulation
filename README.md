@@ -1,6 +1,6 @@
 # Paper
 
-## Table 2 Details of 37 AGCMs, their cloud-convection parametrization schemes, and resolutions (Part 1)
+## Details of 37 AGCMs, their cloud-convection parametrization schemes, and resolutions
 | Category | Model             | Reference Atmospheric Model          | Resolution (°)       | Deep Convection            | Shallow Convection          | Cloud Microphysics            | Cloud Macrophysics            |
 |----------|------------------|--------------------------------------|----------------------|----------------------------|------------------------------|------------------------------|------------------------------|
 | UM       | ACCESSCM2         | UM10.6                              | 1.875 × 1.25        | Gregory and Rowntree (1990) | Gregory and Rowntree (1990) | Wilson et al. (2008)        | Wilson et al. (2008)        |
