@@ -39,4 +39,4 @@
 | CAS      | CAS-ESM2-0       | IAPAGCM5.0                         | 1.4 × 1.4            | Tiedtke (1989)             | Park and Bretherton (2009)  | Morrison and Gettelman (2008)| Zhang et al. (2020)       |
 | GAMIL    | FGOALS-g3         | GAMIL3                             | 2 × 2               | Wu et al. (2007)           | Wu et al. (2007)            | Morrison and Gettelman (2008) | Guo and Zhou (2014)        |
 | GAMIL   | FGOALS-f3-L       | FAMIL2.2                           | 1 × 1               | Nordeng (1994)            | Tiedtke (1989)             | Nordeng (1994)              | Tiedtke (1989)              |
-| IPSL     | IPSL-CM6A-LR      | LMDZ6                              | 2.5 × 1.259         | Emanuel (1991)            | Rio et al. (2009)          | Rio and Hourdin (2008)      | Madeleine et al. (2020)      |
+| IPSL     | IPSL-CM6A-LR      | LMDZ6                              | 2.5 × 1.259         | Emanuel (1991) Rio et al. (2009)            | Rio and Hourdin (2008)          | Madeleine et al. (2020)      | Madeleine et al. (2020)      |
